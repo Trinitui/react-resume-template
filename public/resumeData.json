@@ -1,45 +1,35 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Andrew Whelan",
+    "occupation": "Project Manager",
+    "description": "Data driven and working to glean insights in buisness processes. Relentless improver. Constant Learner",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "Comfortable using React, MongoDB, and JS for web dev work and pandas, scikit-learn and Python for Data Science. Confident managing large projects and agile teams.",
+    "contactmessage": "Feel free to contact me!",
+    "email": "andrewmwhelan9@gmail.com",
+    "phone": "781-801-0831",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "103 Clear Pond Drive",
+      "city": "Walpole",
+      "state": "MA",
+      "zip": "02081"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.trinitui.com",
+    "resumedownload": "https://drive.google.com/file/d/101sAxI-ilCrnMYbuyCp4q5yJUIRdsROm/view?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://twitter.com/trinitui174",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/andrewmwhelan/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/Trinitui",
         "className": "fa fa-github"
       }
     ]
@@ -48,30 +38,30 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Saint Michael's College",
+        "degree": "Chemistry",
+        "graduated": "May 2012",
+        "description": "Studied Chemistry, including organic, inorganic, and quantitative analysis."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "General Assembly",
+        "degree": "Data Science",
+        "graduated": "June 2021",
+        "description": "Part time remote course to learn the fundementals of Data Science. Mostly using Pandas and Scikit-learn"
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "BioRAFT",
+        "title": "Implementation Project Manager",
+        "years": "March 2018 - Present",
+        "description": "Led enterprise-level software implementations, as well as built buisness intellegence dashboards and coordinated weekly development cycle."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Structure Consulting Group",
+        "title": "Project Manager",
+        "years": "Feb 2015 - May 2017",
+        "description": "Started working on database solution for Real Estate Team. Later, I led the aquisition of over 100 utility-pole based telecom facilities. Was responsible for coordinating the entire utlity-pole program to meet timeline expectations."
       }
     ],
     "skills": [
@@ -80,28 +70,16 @@
         "level": "60%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
         "name": "ReactJs",
         "level": "50%"
       },
       {
-        "name": "CSS",
-        "level": "90%"
+        "name": "Python",
+        "level": "70%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "VueJs",
-        "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "SciKit-learn",
+        "level": "70%"
       }
     ]
   },
