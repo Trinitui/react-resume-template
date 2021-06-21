@@ -48,6 +48,12 @@
         "degree": "Data Science",
         "graduated": "June 2021",
         "description": "Part time remote course to learn the fundementals of Data Science. Mostly using Pandas and Scikit-learn"
+      },
+      {
+        "school": "FreeCodeCamp",
+        "degree": "Certifications",
+        "graduated": "October 2020",
+        "description": "Recieved Certifications in JavaScript Alogrithms and Data Structures, Responsive Web Design, and Front End Libraries."
       }
     ],
     "work": [
@@ -74,6 +80,10 @@
         "level": "50%"
       },
       {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
         "name": "Python",
         "level": "70%"
       },
@@ -86,22 +96,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Drum Machine",
+        "category": "Drum Machine built in React",
+        "image": "drum-machine.png",
+        "url": "https://codepen.io/Trinitui/full/poyxMww"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "NASA and SpaceX API Showcase",
+        "category": "Reactive web app that shows latest data from NASA and SpaceX APIs",
+        "image": "space-api-crop.PNG",
+        "url": "https://codepen.io/Trinitui/full/YzqyvJL"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "RocketLab API",
+        "category": "API I worked on to deliver up-to-date information about Rocket Lab Launches",
+        "image": "rocket-lab.png",
+        "url": "https://rocketlabapi.herokuapp.com/v1/launches/latest"
       },
       {
         "title": "Resume Website",
